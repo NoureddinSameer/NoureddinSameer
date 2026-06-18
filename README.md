@@ -93,12 +93,12 @@ Additionally, my **GPA** stands at ***3.69*** out of ***4.0***
 
 
   
-  <img src="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub Snake Animation" />
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/output/pacman-contribution-graph.svg?v=1">
   </picture>
 
 
