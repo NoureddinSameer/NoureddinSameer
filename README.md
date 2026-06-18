@@ -1,4 +1,4 @@
-![banner.jpg](https://github.com/NoureddinSameer/local-then-remote/blob/main/banner.png)
+![banner.jpg](https://github.com/NoureddinSameer/NoureddinSameer/blob/main/banner.png)
 ![GitHub followers](https://img.shields.io/github/followers/NoureddinSameer?style=social)
 <a href="https://www.linkedin.com/in/noureddin-sameer-45760a236/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
