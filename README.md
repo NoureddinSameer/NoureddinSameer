@@ -41,10 +41,9 @@
   </p>
 
   <p align="center">
-  <a href="https://www.google.com.eg/search?q=Noureddin+Sameer">
-    <img src="https://komarev.com/ghpvc/?username=NoureddinSameer&style=flat&color=3010A0" alt="Profile Views" />
-  </a>
-</p>
+    <a href="https://www.google.com.eg/search?q=Noureddin+Sameer"> Google Me
+      <img src="https://komarev.com/ghpvc/?username=NoureddinSameer&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
 
   <p align = "center">
     <a href="https://noureddin-sameer-nazir-alzarie.netlify.app/">
