@@ -14,14 +14,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: generate pacman
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: deploy
+      - name: Show generated files (debug)
+        run: ls -R
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
