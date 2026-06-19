@@ -81,7 +81,10 @@ Additionally, my **GPA** stands at ***3.69*** out of ***4.0***
   </p>
 <br>
 
-![GitHub Metrics](https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/metrics/github-metrics.svg)
+<h2>🏆 GitHub Metrics</h2>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/metrics/github-metrics.svg">
+</p>
 
 <h2>🏆 GitHub Trophies</h2>
   
