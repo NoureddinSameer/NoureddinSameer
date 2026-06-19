@@ -25,5 +25,4 @@ jobs:
 
           output_action: commit
           committer_branch: metrics
-          committer_message: "update metrics"
           filename: github-metrics.svg
