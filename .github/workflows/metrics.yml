@@ -18,10 +18,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
+
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Europe/Amsterdam
 
           output_action: commit
           committer_branch: metrics
+          committer_message: "update metrics"
           filename: github-metrics.svg
