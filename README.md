@@ -77,7 +77,7 @@ Additionally, my **GPA** stands at ***3.69*** out of ***4.0***
   <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,dapper,swagger,postman,docker,git,github,html,css,js,mysql,mongodb,firebase,flutter,dart,java,kotlin,python,php,laravel,oracle,cpp,c,arduino,figma&perline=12&height=64"/>
     <img src="https://streak-stats.demolab.com/?user=NoureddinSameer&theme=highcontrast" height="130"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoureddinSameer&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
-    [![LeetCode Stats](https://leetcard.jacoblin.cool/NoureddinSameer?theme=dark)](https://leetcode.com/NoureddinSameer)
+    [![LeetCode Stats](https://leetcard.jacoblin.cool/Noureddin_Sameer?theme=dark)](https://leetcode.com/Noureddin_Sameer)
   </p>
 <br>
 
