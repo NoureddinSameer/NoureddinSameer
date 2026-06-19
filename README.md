@@ -4,7 +4,7 @@
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.facebook.com/nouralzar" target="_blank">
-	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=soical&logo=facebook&logoColor=white" alt="Facebook">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=sNoureddinSameeroical&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="https://x.com/NoureddinSameer" target="_blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=soical&logo=x&logoColor=white" alt="Twitter">
@@ -80,6 +80,9 @@ Additionally, my **GPA** stands at ***3.69*** out of ***4.0***
 
   </p>
 <br>
+
+![GitHub Metrics](https://raw.githubusercontent.com/NoureddinSameer/NoureddinSameer/metrics/github-metrics.svg)
+
 <h2>🏆 GitHub Trophies</h2>
   
   <p align="center">
